@@ -36,9 +36,7 @@
     "@ionic/app-scripts": "3.1.8",
     "typescript": "~2.6.2"
   },
-	“scripts”: {
-“build”: “ls”
-},
+
   "description": "An Ionic project",
   "main": "index.js",
   "license": "ISC"
